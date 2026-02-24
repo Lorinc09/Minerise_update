@@ -1,5 +1,5 @@
 {
-  "maintenance_active": false,
+  "maintenance_active": true,
   "maintenance_message": "A szerver jelenleg fejleszés miatt nem elérhető!",
   "upcoming_maintenance": [
     {
